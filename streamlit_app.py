@@ -4,7 +4,9 @@ import io
 from PIL import Image
 import base64
 import plotly.graph_objects as go
+import os
 
+MAPBOX_TOKEN = os.getenv("MAPBOX_TOKEN")
 
 st.title("Mobility hubs in Leuven")
 
