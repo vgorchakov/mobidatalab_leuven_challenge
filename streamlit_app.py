@@ -6,8 +6,6 @@ import base64
 import plotly.graph_objects as go
 
 
-MAPBOX_TOKEN = "pk.eyJ1IjoiZ29yY2hha292diIsImEiOiJjbDh4NmU4d3AwM3ljM3dsaDcyYnd4NzdsIn0.whPFq3l9sGBowsYjqS9WjQ"
-
 st.title("Mobility hubs in Leuven")
 
 # @st.cache_resource
