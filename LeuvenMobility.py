@@ -7,7 +7,7 @@ st.set_page_config(
 
 st.title("Leuven Multi-Modal Mobility hubs")
 st.image('data/mobility_hubs_viz.webp')
-st.sidebar.success("Open Solution or User page above.")
+st.sidebar.success("Open Solution above.")
 
 st.write("Hello!👋 This is the web interface of the proposed solution for the Leuven city challenge of the hackathon provided by MobilityDataLab.")
 st.markdown(
