@@ -14,7 +14,6 @@ st.markdown(
     """
     Leuven Challenge
     - Check out our 2-stage solution with "Solution page"
-    - Jump into our user page draft page with "User page"
     - Developed by OREH team (Slava Gorchakov)
 """
 )
