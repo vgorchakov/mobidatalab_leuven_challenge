@@ -1,5 +1,7 @@
 # MCA-AHP + Discrete Optimization Approach for placing new multi-modal mobility hubs
+
 Deployed app: https://leuven-mobility.streamlit.app/ 
+
 Github repository: https://github.com/vgorchakov/mobidatalab_leuven_challenge 
 
   The key idea of the proposed solution is to combine the power of Multi-Criteria Analysis and Discrete Optimization Power. We apply Multi-Criteria Analysis (MCA) with Analytics Hierarchy Process (AHP) procedure to socio and demographic data available in the hackathon. The result of these procedures - an indicator of neighbourhood that measures potential of a new mobility hub in this neighbourhood. We take into account the distribution of the current mobility hubs that are already incorporated in the city and weight this indicator with the number of opened hubs to assess the score of potential to place extra hubs in this neighbourhood. The output of this layer is a score per neighbourhood that we are going to use during the main step - Discrete Optimization Model. The heart of the solution is to use the power of discrete optimization modelling. 
